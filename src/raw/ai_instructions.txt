@@ -5,7 +5,7 @@
 // If things aren't numbered, feel free to number them. 
 // Feel free to edit spacing and tabs and formatting if necessary. 
 
-// Only possible categories: TV, Movies, Video Games, Music, Podcasts, Documentaries, Docuseries 
+// Only possible categories: TV, Movies, Video Games, Music, Podcasts, Documentaries, Docuseries, Youtube channels, Books, Reality TV
 // Only possible authors: Steven, Grayson, Robbie, Carrie Ann, Amanda, Paul, Zach
 
 // There might be strange situations like ties or "a" and "b" entries for a given list item. When faced with
