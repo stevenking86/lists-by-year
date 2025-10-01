@@ -1,0 +1,32 @@
+[
+  {
+    "year": 2024,
+    "author": "Grayson",
+    "category": "TV",
+    "items": [
+      "The Bear",
+      "Succession",
+      "Severance"
+    ]
+  },
+  {
+    "year": 2024,
+    "author": "Steven",
+    "category": "Music",
+    "items": [
+      "Penny Farthing",
+      "Boygenius",
+      "SZA"
+    ]
+  },
+  {
+    "year": 2023,
+    "author": "Grayson",
+    "category": "Movies",
+    "items": [
+      "Oppenheimer",
+      "Past Lives",
+      "Poor Things"
+    ]
+  }
+]
