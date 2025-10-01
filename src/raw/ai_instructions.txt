@@ -1,0 +1,13 @@
+// Notes for the AI: Please take a look at the other files in this folder (or the specific ones you were instructed to look at).
+//  Then look at the format of data.json.
+// We want to take the unstructured data in these files and put it in data.json in the format that
+// is there. You should be able to figure out the year, category, author, and items from these files. 
+// If things aren't numbered, feel free to number them. 
+// Feel free to edit spacing and tabs and formatting if necessary. 
+
+// Only possible categories: TV, Movies, Video Games, Music, Podcasts, Documentaries, Docuseries 
+// Only possible authors: Steven, Grayson, Robbie, Carrie Ann, Amanda, Paul, Zach
+
+// There might be strange situations like ties or "a" and "b" entries for a given list item. When faced with
+// strange issues like this, use your discretion to either combine them into 1 list item or break them up 
+// even if that causes renumbering.  Don't do something like restructure the json format please. 

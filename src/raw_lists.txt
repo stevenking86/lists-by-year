@@ -1,0 +1,295 @@
+// Notes for the AI: Please take a look at this file.  Then look at the format of data.json.
+// We want to take the unstructured data in this file and put it in data.json in the format that
+// is there. You should be able to figure out the year, category, author, and items from this file. 
+// If things aren't numbered, feel free to number them. 
+// Feel free to edit spacing and tabs and formatting if necessary. 
+
+// Only possible categories: TV, Movies, Video Games, Music, Podcasts, Documentaries, Docuseries 
+// Only possible authors: Steven, Grayson, Robbie, Carrie Ann, Amanda, Paul, Zach
+
+WIthout further ado, Steven's top television picks of 2017.
+
+1. Leftovers Season 3
+2. Young Pope
+3. Master of None Season 2
+4. Mr. Robot Season 3
+5. American Vandal
+6. Big Little Lies
+7. Better Call Saul Season 3
+8. Mind Hunter Season 1
+9. Game of Thrones Season 7
+10. TIE: Glow Season 1, Curb Your Enthusiasm Season 9
+
+
+
+Amanda's TV 2017
+
+1. Mr. Robot Season 3
+2. Big Little Lies
+3. Stranger Things
+4. Leftovers Season 3
+5. Handmaid's Tale
+6. Game of Thrones Season 7
+7. Master of None Season 2
+8. Better Call Saul Season 3
+9. The Good Place 1&2 (Ted Danson is an American treasure)
+10. TIE: American Vandal & SNL - see below
+
+Robbie TV list 2017
+1. The Young Pope.
+
+Grayson List 2017 
+1. The Crown
+2. Black Mirror
+3. Ozark
+4. Mindhunter
+5. Godless (Just when you think the acting is terrible you realize everyone is doing it and then will never know why)
+6. Shetland
+7. Hinterland
+8. Forensic Files (Yes from 1997)
+9. Haters Back Off
+
+Carrie Ann TV 2017
+
+1. The Crown
+2. Big Little Lies
+3. Ozark
+4. Godless
+5. Handmaid's Tale
+6. Bloodline
+7. Stranger Things
+8. Alias Grace
+9. Anne with an "E"
+10. Mindhunter
+
+Steven TV 2018 
+Best of Television:
+1. Succession, season 1
+2. The Americans, final season (Now that it has wrapped, I declare this the 5th greatest show of all time.)
+3. Homecoming, season 1
+4. The End of the Fucking World, season 1
+5. Forever, season 1
+6. *Below Deck, season 6
+7. Ozark, season 2
+
+Steven Music 2018 
+1. Lucy Dacus - Historian
+2. The 1975 - A brief inquiry into online relationships
+3. Jeff Rosenstock - -POST
+
+Paul TV 2018
+1.)	The Staircase	-	Me and Buck talked about this at length, but I’m convinced that this is a story of an attorney. I wouldn’t stop watching it/couldn’t stop watching it. 
+
+2.)	Better Call Saul S4 -	Yeah, this show punches me right up the nuts. I loved it, and it pushes the aspect of how much you can root for a character and still inherently hate him.
+
+3.)	DARK - 		It’s a German show, but the dubs are pretty decent, and I loved every minute of it until the last ten seconds. No spoiler alert here. Just busted balls (It punched me up the nuts). 
+
+4.)	The Haunting at Hill House - This show is quite literally a family drama that’s better than a family drama and a horror movie that’s better at being a horror movie than most. I loved this show. I remember distinctly how I felt after each episode, and the reveals of the secrets are how I want television to be. 
+
+5.)	The Forensic Files Collection on Netflix - 	I watch it to go to sleep and it’s always the weirdest fucking conundrum of shit, all happening, waaay before the digital age. It’s hilarious, and the narrator is monotone and the music is drony. Perfect for first-time ASMR people. 
+
+6.)	Sneaky Pete S02 - 	It’s like Breaking Bad with a con man. The second season showed that the creativity of the plot wasn’t anything to scoff at. I would get pegged by Giovanni Rabissi. 
+
+7.)	Friends -		It’s classic. I love it how their nipples are hard all the time. I wish Ross, Joey and Chandler had harder nipples, but that’s on them. 
+
+8.)	The Sinner S01 -	I’m a little late on this one, and Bill Pullman hasn’t done any acting chop classes or activity seminars, but it was pretty good. I think the cinematography is the thing to focus on more here, and not the fact that a detective wants to free a woman who plead guilty to begin with. Don’t think too hard, or you’ll become me!
+
+9.)	Sharp Objects -	Yeah, so it doesn’t help when everyone in the show is hot and damaged, because that’s also me! I loved this show. I don’t care there is no Season 2. Let good things be done and die. 
+
+10.)	Homecoming -		What a nice show! I love Sam E-Mail or whoever, and it’s pretty tight. I would highly recommend, not that you should listen to me or anything. This show brought my emotions all over the place, and next to that guy who directed Sharp Objects, Sam E-Mail makes every episode captivating. Can we talk about how they keep the show rolling during the credits? An unsung performance by Shea Wiggum. (How is that not auto-corrected?)
+
+
+Robbie TV 2018
+1) Fleabag- If you haven't done yourself the favor of watching this incredible six part series, do so immediately. Not only is it hysterically funny, but it is incredibly profound and moving. One of the most complete shows I've ever seen frankly. It was written by the girl who stars in it and was adapted from a play. Her new show is Killing Eve (which I do not think works as well with someone else handling her material) Fleabag is really hard to top. 
+
+2) Barry- Similarly to Fleabag, Barry was a unique mix of laughter driven by something far more profound. It's really rare to watch something really unique tonally emerge on TV and I just enjoyed every second of this show. 
+
+3) Mindhunter- This is one of the best shows in my mind by far. It's a really slow burn, but it got into my subconscious in bizarre ways. One of the most incredible things about this show is how violent it is without ever showing the violence. Long drawn out, dialogue driven scenes were masterfully acted and directed. This show did a meta thing where we saw that not only was this how the method of solving crime advanced to what we know today, but this method is now used for dramatic effect in every cop show on TV. 
+
+4) Curb Your Enthusiasm- An all-time favorite of mine, I was REALLY worried episode 1 of the new season. But eventually the show found it's legs and had me rolling in typical Curb fashion. I thought this season ended up being pretty great. All time Curb great? No. But in the scope of the things I've watched this year it remains pretty darn high because mediocre Curb is still the best of comedic television for me. 
+
+5) Dexter (Seasons 1-4) I've seen seasons 1 and 2 years ago but QUICKLY abandoned season 3 during the very first episode when I sensed it was going downhill. Thankfully Steven convinced me to stick with it through season 4 this year and boy was I glad I did. It was one of the most gut wrenching and shocking things I'd seen in a series. Thrones level.
+
+6) The Punisher- I need to preface this by saying I fucking HATE all of the Marvel series and all of the Marvel movies. I can't stand that people actually like this stuff and elevate to such an iconic level when it's just...so bad and usually one long Pepsi ad. But this show really surprised me. Why you ask? Because underneath it all was a really interesting and illuminating profile of PTSD in our veterans. I thought they did a really great job integrating something meaningful into one of these series for once, much like how Logan made a Wolverine move so successful.
+
+7) It's Always Sunny- Yeah I'm the one guy still watching. This show had a pretty good year topped off by a remarkable season finale. If you do anything just watch that. They were really ensemble and dialogue driven this year especially early on and did a lot of scenes where they ALL were in it. Which was really fun.  
+
+8) The Staircase- I wasn't sold at first on this but it was truly riveting in the end. There really is no definitive sense of what the hell happened though I feel the owl theory is the most likely if you give him the benefit of the doubt.
+
+9) King of the Hill- The show America needs right now. I've always been a huge fan of this show and have been rewatching since every season emerged on Hulu. It's a progressive voice for middle America that gives people the benefit of the doubt and empathy. They tackle a lot of really interesting issues in fun and loving ways. The humor is much more subtle than it seems like it should be. I always tell people to watch it as if they're real people and not cartoons. The animation can be very subtle. 
+
+10) The Office- This show has and always will be clutch. And it always gets better and better every single time I watch it. I'm probably on my 7th or 8th watch through and there are so many great easter eggs every time. It's like hanging out with your good buddies.
+
+Amanda TV 2018
+1. Glow - this was so much fun. Everything about this show is campy/mixed the right amount of seriousness and 80s flare and perfect. Highly recommend. 
+2. Below Deck - Steven already gave a good run down on this docuseries - this may or may not actually be reality TV - but I recommend only because Kate Chastain is the perfect combo of sassy and resting bitch face. 
+3. The Americans - so sad this one is over! It was a slow burn for me towards the end and still the most realistic thing on television in my opinion. 
+4. The Let Down - fair warning, do NOT watch this while you are nursing on maternity leave. Really a huge bummer but it was very well done and shows a realistic side to motherhood that I can appreciate. 
+5. The end of the fucking world. Just watch it. 
+6. Always sunny in Philadelphia - specifically the one where Mack comes out to his Dad. I watched that scene 3 times. It was beautiful and so well done.
+
+Grayson TV 2018 
+1. Glow   - Like a very warm long damn hug. I was completely taken care of the entire first two seasons. Mostly female cast and they fucking rocked it. Also, what Amanda said.
+2. Haunting at Hill House   - Combining Family Drama and Horror genres? YES!!!! Also the acting is so internally aggressive and I adored it.
+3. Flint Town   - Those poor bastards
+The Staircase   - What Robbie said.
+4. Bloodline Season 2   - Never have I seen such subtle potency in acting. Especially the character of Kevin. Masterclass.
+5. Barry Season 1  - What Robbie said.
+6. La Foret   - Another masterclass in acting by, wait for it......French People.
+7. Mindhunter - Guys it was so potent and that woman is SO HOT. Yeah Jonathon Graff acts weird but let him do it you know?
+8. Making a Murderer Season 2   - This lady lawyer is a BADASS
+9. Maisel Season 1   - Ever since I saw Robbie do a reading with Rachel I knew she was going to get her own shit.
+10. Lost in Space  - First space tv series I've actually really enjoyed.
+11. Fallet   - Swedish/American COMEDIC Mystery/Crime Drama
+12. The Lava Field   - Icelandic Mystery/Crime Drama
+13. Big Dreams Small Spaces   - It's a gardening show (leave me the fuck alone)
+14. The Kominsky Method  - Alan Arkin not giving a fuck about anything? I will watch and enjoy absolutely.
+15. Cold Justice  - They find cold cases and solve them. End of story.
+16. Anne with an E Season 2   - She is just a damn delight and I wish I could have her life outlook every day all day.
+17. Kiss Me First   - Tech shit and one of the reasons actors will only need to voiceover in the future.
+18. Imposters Season 1   - So I still have a crush on Marianne Rendon after I have hung out with her a couple damns so what, Robbie.
+19. Forensic Files  - What Paul said.
+20. Ozark Season 2   - It got a little too much at the end for me 
+
+Grayson movies 2018 
+Films:
+1. Hereditary   - I just watched this last night and am still reeling. Toni Collette sets off an NUCLEAR ACTING BOMB in this one.
+2. Hold the Dark   - Just watch it.
+3. The Kindergarten Teacher   - That poor kid.
+4. Evolution   - SO WEIRD. Foreigners, man.
+5. The Gift   - One of the reasons we are making our own shit. Joel Edgerton did everything in this film.
+6. Wind River   - Something is up and it's really cold out. Grab your gun.
+7. Evil Genius   - What a DANGEROUS Maniacal chick.
+8. Cam   - Our friend Madeline Brewer for the win in this one. 
+9. The Ritual   - I've talked about this film way too much this year. Just a fun fantastical suspense/horror.
+10. God Knows Where I am   - YOU WILL FEEL HORRIBLE THROUGHOUT THIS ENTIRE FILM
+11. Private Life   - Paul Giamatti and Katherine Hahn are just wonderful in this. So fun and so tragic. She should have been nominated.
+12. Recovery Boys   - Just some real insight to the life of recovering attics. You walk with them throughout and it sucks.
+13. Hostiles   - Just brutal. I love just brutal REAL shit I think would be rolling out on the prairies back in the day.
+14. Bird Box   - Cool concept and Sandra Bullock gave it ALL. Great film but didn't lived up to the hype.
+15. Caliber   - I have recurring nightmares with the subject matter of this film.
+16. The Homesman   - Tommy Lee Jones doing what he does best. Westerns and anything he wants.
+17. Peter Rabbit   - Yes. That's right. Rotten Tomatoes made a large mistake with this one.
+18. Sour Grapes   - Some dude cornering the market on high end wine purchases? Somethings up. AND BOY WAS IT EVER!
+19. Wild Wild Country   - Fascinating to watch a master manipulator not know she is a master manipulator. Good for her.
+20. A Quiet Place   - It was good. You can't make noise. It's all good. I'm making a film in the future where you can't be SMELLED by aliens.
+21. UNSANE   - Claire Foy appears to be going fucking nuts but is she? This film looked like they filmed it for 20 grand and it's cooler because of it. 
+
+Steven TV 2019 
+Best of TV
+1. Succession Season 2 - Two years in a row at the top of the list.  It's just the best.  The story keeps me on the edge of my seat, it's laugh out loud funny, it's fun to gawk at all the rich people stuff.
+2. Fleabag Season 2 - It's great. It's funny.  The symbolism hits hard.
+3. Watchmen*
+4. Chernobyl
+5. Russian Doll
+6. Mr. Robot final season*
+7. The End of The Fucking World* - I've only watched 3 of the 8 episodes so far.  This feels like a fair place to put it.  I could see it going up to number 3 or 4 or dropping.  I love these characters.  I love the storytelling.  *minor spoiler* Episode 2-3 include one of the most tried-and-true rom com premises: Old lover comes to town just before love interest is to be married to someone else.  Somehow, it doesn't feel cliche and the emotional impact hits harder than any other time I've seen it done.  Bravo. 
+8. Handmaid's Tale S3  - I was almost out on this show.  This season it shined.  There was hope.
+9. Righteous Gemstones - I don't know what the hell to say to you.  The cast is incredible.  Danny McBride, Walton Goggins, John Goodman, Edi Patterson, many more great choices.  Plus they accidentally put out one of the best songs of 2019.
+https://www.youtube.com/watch?v=R-znj7Uf9Oo
+10. Maisel S2 - I love this show more than I want to.
+11. Black Mirror's latest batch of episodes.  Not its strongest.  Striking Vipers was excellent though.
+12. Mandalorian* - I'm so in. 
+
+Steven music 2019
+1. Vampire Weekend - Father of the Bride 
+
+Grayson docuseries 2019
+1. Devil Next Door (Ya'll possibly accused a poor bastard of being Ivan the Terrible. Put him through the MF ringer too.)
+2.  The Disappearance of Madeline McCann (What a FUCKING mess.)
+3. Inside the Mind of Aaron Hernandez (How could all this actually happen?? Just...how? It's miserable.) 
+4.  The Confession Killer (This dude has damage to his frontal lobe because he was probably hit with a blunt object when he was 3 or 4. Goes on to killer his mother then just starts admitting to ANY murder that comes across his plain of view. (Cops are trying to clear cases....lots of them.) Just disgraceful.   
+5. Woodstock: 3 Days that Defined a Generation (This no reason this event should have happened as seamless as it did.)
+6. Apollo 11 (Guys stop it. It's fucking space. Shut the fuck up. They take you along for the RIDE.) https://www.youtube.com/watch?v=cvvhAft0-Tw  
+7. Murder Mountain (You sell weed in these parts then get ready for shit to get fucked.)
+
+Grayson documentaries 2019
+1. Abducted in Plain Sight (Just....just.....terrifying.)
+2. Free Solo (The MF climbed El Capitan with a fucked up ankle and NEW girlfriend WITH Cameras on him the whole time.)
+3. God Knows Where I Am (Somehow this mentally ill woman discharged herself then proceeded to live in an abandoned house only eating apples for 4 months in 20 degree weather. She journaled every day. Just so sad.)
+4. Long Shot (If it wasn't for Larry David this poor bastard watching an MLB game with his kid would be in jail for murder.)
+5. BIKRAM (Fuck that guy!)
+6. Tell Me Who I Am (A twin brother gets into a car accident and relies on his brother to explain to him his life. Except his twin doesn't explain all of it.)
+
+Grayson TV 2019
+1. Chernobyl  (Best Television I've seen in several years. No words.)
+2. Fleabag (Good for her.)
+3. The Dark Crystal (The extensive world they and dynamic characters they created is just astounding in this 10 part series. It's what Jim Henson wanted to do with the original.)
+4. GLOW (This show is so fucking under rated. No reason people shouldn't be watching.) 
+5. Succession (COCAINE) 
+5b. THE ASSASSINATION OF GIANNI VERSACE
+6. The Crown Season 3 (I thought having older people would bother me but it doesn't. Definitely not as sexy as the first couple seasons but def more existentially evocative.)
+7. Anne with an E Season 3 (I can't explain how refreshing this show is. Throw a young highly passionate liberal philosophical romantic intellectual feminist red head into the wrong time and dominoes start to fucking fall.)
+8. River (Ya'll it's Stellan. Detective who hallucinates and hears voices tries to solve his partners murder. He's better in this than anything I've seen him in.)
+9. The Romanoffs (Why the FUCK is this rated badly on Rotten Tomatoes? Seriously. Someone explain.)
+10. Modern Love (Yeah I'm in it. Fuck off. It's a more niche Romanoffs.)
+11. Documental (10 Japanese Comedians put up 10,000 yen to try and make each other laugh. Winner gets 100,000 yen. It's 40% Funny/60% Human Behavior Study) 
+12. Stranger Things Season 3 (I was worried early on because NOTHING was happening and then they got this MF rolling.)  
+13. Queer Eye (Good call Amanda. I cry every other episode.)
+14. Killing Eve (It got a little procedural for me near the end of the 1st season so I stopped watching but will dive back in.) 
+15: Black Mirror (new episodes were pretty fire. Good call Steven.)
+16. Criminal UK (Whole damn series is in an interrogation room.)
+17. Derry Girls (REAL Irish high school chicks deal with being young you know?)
+18. The Politician (Just started watching but it's intense and delightful.) 
+
+Grayson Movies 2019 
+The Invitation 
+Calibre
+The Autopsy of Jane Doe   
+The Innocents
+I Am Mother  
+The Survivalist 
+Mirage
+A Stupid and Futile Gesture  
+
+Amanda TV 2019
+Below Deck - don't @ me. A group of hot men and women stranded at sea, doing 5 star service. What more do you want in a show?!
+Fleabag - duh
+GLOW - Betty Gilpin. I stan. 
+Queer Eye - Or as I like to call it, "Church"
+Russian Doll - East Village what whaaaat
+Schitts Creek - Ew David. 
+The Crown 
+The Good Place
+Watchmen 
+
+Steven TV 2020 
+1. Cheer (Lexi's arc made me feel some shit by the end)
+2. Queen's Gambit
+3. Miami Heat games in the NBA Bubble (best moment: game 4 eastern conference finals, Herro goes for 37. Sorry Grayson, it was against the Celtics)
+4. Better Call Saul (This might've been number 1...the pandemic hit when we had 2 episodes left and WE HAVEN'T FINISHED)
+5. Ozark S3 - this grew on me AFTER I finished watching it.  Thought about it a lot.
+6. Tiger King
+7. Below Deck Mediteranean S5 - I'm not kidding. This made me cringe and want to curl up in a ball and die several times.  VERY effective TV.
+8. The Mandolorian 
+
+Steven movies 2020
+I'm thinking of ending things
+
+Steven music 2020
+1. Lana Del Rey: Norman Fucking Rockwell - This came out in 2019 but I discovered it in 2020.  Best thing I've heard in a very long time.
+2.  Bill Evans piano records from the 50s and 60s.  You can start with 'Everybody digs Bill Evans' if you want. 
+3. RMR - Rascal https://www.youtube.com/watch?v=gxIEt3KEohk - When I watch and listen to this I realize how confusing it must be especially for non-Americans.  This is the most quintessentially made in the USA thing I heard this year (and I listened to Lana Del Rey sing about being a white girl in California for like 300 hours this year!).  Please watch that.  It's confusing and beautiful and gangster and probably a lot of other things. 
+
+Steven podasts 2020 
+1. Just hands (https://open.spotify.com/show/3X7HGYQKGvuifZJ7kYFOoN?si=jHvUuEgxQvWIE9Mc0GuLOA) - dudes talking about 1 poker hand for 30-45 mins per episode.
+2. In the Dark Season 2 - The best investigative journalism I've ever heard.  Impossibly in depth. And (spoiler alert) the journalists eventually basically save someone's life. (Thanks for the rec Pav)
+
+Robbie TV 2020 
+Plot Against America: Sleeper show that turned out to be one of the best of the year for me. Relevant and genuinely effective historical fiction.
+Sharp Objects: A show that I found gripping. Riveting mini-series from beginning to end. Amy Adams best role. 
+Sopranos (rewatch): Show holds up as the greatest of all time. Totally engrossing. 
+Mandalorian: Why couldn't the movies have had this much care? Steven voice: Is it perfect? No. Is baby yoda adorable? Absolutely.
+Married At First Sight Season 9: I absolutely hate myself for how I watched every minute of this bloated crapfest. But dammit Matt is such a dick. 
+Tiger King: Obviously. 
+Larry Sanders Show: Season 1 was really damn good. I didn't keep watching for some reason but season 1 is very much worth watching.
+Property Brothers: This show was very satisfying to watch. Sure they always have a damn open concept but it got me through some tough times.
+News: I've never a) Watched so much goddamn news in my life and b) stopped watching news altogether so fast after the election ended. 
+
+Robbie movies 2020
+All the Marvel movies in release order: These genuinely got me through the first few weeks of quarantine. And I have to say they are good as a composite whole. I'd seen bits and pieces of movies but in order they are much better.
+All the Harry Potter movies: Currently on USA at this very moment but I watched these in order at one point. Fun.
+
+Robbie Music 2020 
+Classic 90's playlist has gotten me through. 
+

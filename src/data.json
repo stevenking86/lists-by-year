@@ -1,32 +1,566 @@
 [
   {
-    "year": 2024,
+    "year": 2017,
+    "author": "Steven",
+    "category": "TV",
+    "items": [
+      "Leftovers Season 3",
+      "Young Pope",
+      "Master of None Season 2",
+      "Mr. Robot Season 3",
+      "American Vandal",
+      "Big Little Lies",
+      "Better Call Saul Season 3",
+      "Mind Hunter Season 1",
+      "Game of Thrones Season 7",
+      "TIE: Glow Season 1, Curb Your Enthusiasm Season 9"
+    ]
+  },
+  {
+    "year": 2017,
+    "author": "Amanda",
+    "category": "TV",
+    "items": [
+      "Mr. Robot Season 3",
+      "Big Little Lies",
+      "Stranger Things",
+      "Leftovers Season 3",
+      "Handmaid's Tale",
+      "Game of Thrones Season 7",
+      "Master of None Season 2",
+      "Better Call Saul Season 3",
+      "The Good Place 1&2 (Ted Danson is an American treasure)",
+      "TIE: American Vandal & SNL - see below"
+    ]
+  },
+  {
+    "year": 2017,
+    "author": "Robbie",
+    "category": "TV",
+    "items": [
+      "The Young Pope."
+    ]
+  },
+  {
+    "year": 2017,
     "author": "Grayson",
     "category": "TV",
     "items": [
-      "The Bear",
-      "Succession",
-      "Severance"
+      "The Crown",
+      "Black Mirror",
+      "Ozark",
+      "Mindhunter",
+      "Godless (Just when you think the acting is terrible you realize everyone is doing it and then will never know why)",
+      "Shetland",
+      "Hinterland",
+      "Forensic Files (Yes from 1997)",
+      "Haters Back Off"
     ]
   },
   {
-    "year": 2024,
+    "year": 2017,
+    "author": "Carrie Ann",
+    "category": "TV",
+    "items": [
+      "The Crown",
+      "Big Little Lies",
+      "Ozark",
+      "Godless",
+      "Handmaid's Tale",
+      "Bloodline",
+      "Stranger Things",
+      "Alias Grace",
+      "Anne with an \"E\"",
+      "Mindhunter"
+    ]
+  },
+  {
+    "year": 2018,
+    "author": "Steven",
+    "category": "TV",
+    "items": [
+      "Succession, season 1",
+      "The Americans, final season (Now that it has wrapped, I declare this the 5th greatest show of all time.)",
+      "Homecoming, season 1",
+      "The End of the Fucking World, season 1",
+      "Forever, season 1",
+      "Below Deck, season 6",
+      "Ozark, season 2"
+    ]
+  },
+  {
+    "year": 2018,
     "author": "Steven",
     "category": "Music",
     "items": [
-      "Penny Farthing",
-      "Boygenius",
-      "SZA"
+      "Lucy Dacus - Historian",
+      "The 1975 - A brief inquiry into online relationships",
+      "Jeff Rosenstock - -POST"
     ]
   },
   {
-    "year": 2023,
+    "year": 2018,
+    "author": "Paul",
+    "category": "TV",
+    "items": [
+      "The Staircase",
+      "Better Call Saul Season 4",
+      "DARK",
+      "The Haunting at Hill House",
+      "The Forensic Files Collection",
+      "Sneaky Pete Season 2",
+      "Friends",
+      "The Sinner Season 1",
+      "Sharp Objects",
+      "Homecoming"
+    ]
+  },
+  {
+    "year": 2018,
+    "author": "Robbie",
+    "category": "TV",
+    "items": [
+      "Fleabag",
+      "Barry",
+      "Mindhunter",
+      "Curb Your Enthusiasm",
+      "Dexter (Seasons 1-4)",
+      "The Punisher",
+      "It's Always Sunny",
+      "The Staircase",
+      "King of the Hill",
+      "The Office"
+    ]
+  },
+  {
+    "year": 2018,
+    "author": "Amanda",
+    "category": "TV",
+    "items": [
+      "Glow",
+      "Below Deck",
+      "The Americans",
+      "The Let Down",
+      "The End of the Fucking World",
+      "Always Sunny in Philadelphia"
+    ]
+  },
+  {
+    "year": 2018,
+    "author": "Grayson",
+    "category": "TV",
+    "items": [
+      "Glow",
+      "Haunting at Hill House",
+      "Flint Town",
+      "The Staircase",
+      "Bloodline Season 2",
+      "Barry Season 1",
+      "La Foret",
+      "Mindhunter",
+      "Making a Murderer Season 2",
+      "Maisel Season 1",
+      "Lost in Space",
+      "Fallet",
+      "The Lava Field",
+      "Big Dreams Small Spaces",
+      "The Kominsky Method",
+      "Cold Justice",
+      "Anne with an E Season 2",
+      "Kiss Me First",
+      "Imposters Season 1",
+      "Forensic Files",
+      "Ozark Season 2"
+    ]
+  },
+  {
+    "year": 2018,
     "author": "Grayson",
     "category": "Movies",
     "items": [
-      "Oppenheimer",
-      "Past Lives",
-      "Poor Things"
+      "Hereditary",
+      "Hold the Dark",
+      "The Kindergarten Teacher",
+      "Evolution",
+      "The Gift",
+      "Wind River",
+      "Evil Genius",
+      "Cam",
+      "The Ritual",
+      "God Knows Where I am",
+      "Private Life",
+      "Recovery Boys",
+      "Hostiles",
+      "Bird Box",
+      "Caliber",
+      "The Homesman",
+      "Peter Rabbit",
+      "Sour Grapes",
+      "Wild Wild Country",
+      "A Quiet Place",
+      "UNSANE"
+    ]
+  },
+  {
+    "year": 2019,
+    "author": "Steven",
+    "category": "TV",
+    "items": [
+      "Succession Season 2",
+      "Fleabag Season 2",
+      "Watchmen",
+      "Chernobyl",
+      "Russian Doll",
+      "Mr. Robot final season",
+      "The End of The Fucking World",
+      "Handmaid's Tale Season 3",
+      "Righteous Gemstones",
+      "Maisel Season 2",
+      "Black Mirror (new episodes)",
+      "Mandalorian"
+    ]
+  },
+  {
+    "year": 2019,
+    "author": "Steven",
+    "category": "Music",
+    "items": [
+      "Vampire Weekend - Father of the Bride"
+    ]
+  },
+  {
+    "year": 2019,
+    "author": "Grayson",
+    "category": "Docuseries",
+    "items": [
+      "Devil Next Door",
+      "The Disappearance of Madeline McCann",
+      "Inside the Mind of Aaron Hernandez",
+      "The Confession Killer",
+      "Woodstock: 3 Days that Defined a Generation",
+      "Apollo 11",
+      "Murder Mountain"
+    ]
+  },
+  {
+    "year": 2019,
+    "author": "Grayson",
+    "category": "Documentaries",
+    "items": [
+      "Abducted in Plain Sight",
+      "Free Solo",
+      "God Knows Where I Am",
+      "Long Shot",
+      "BIKRAM",
+      "Tell Me Who I Am"
+    ]
+  },
+  {
+    "year": 2019,
+    "author": "Grayson",
+    "category": "TV",
+    "items": [
+      "Chernobyl",
+      "Fleabag",
+      "The Dark Crystal",
+      "GLOW",
+      "Succession",
+      "The Assassination of Gianni Versace",
+      "The Crown Season 3",
+      "Anne with an E Season 3",
+      "River",
+      "The Romanoffs",
+      "Modern Love",
+      "Documental",
+      "Stranger Things Season 3",
+      "Queer Eye",
+      "Killing Eve",
+      "Black Mirror",
+      "Criminal UK",
+      "Derry Girls",
+      "The Politician"
+    ]
+  },
+  {
+    "year": 2019,
+    "author": "Grayson",
+    "category": "Movies",
+    "items": [
+      "The Invitation",
+      "Calibre",
+      "The Autopsy of Jane Doe",
+      "The Innocents",
+      "I Am Mother",
+      "The Survivalist",
+      "Mirage",
+      "A Stupid and Futile Gesture"
+    ]
+  },
+  {
+    "year": 2019,
+    "author": "Amanda",
+    "category": "TV",
+    "items": [
+      "Below Deck",
+      "Fleabag",
+      "GLOW",
+      "Queer Eye",
+      "Russian Doll",
+      "Schitts Creek",
+      "The Crown",
+      "The Good Place",
+      "Watchmen"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Steven",
+    "category": "TV",
+    "items": [
+      "Cheer",
+      "Queen's Gambit",
+      "Miami Heat games in the NBA Bubble",
+      "Better Call Saul",
+      "Ozark Season 3",
+      "Tiger King",
+      "Below Deck Mediterranean Season 5",
+      "The Mandalorian"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Steven",
+    "category": "Movies",
+    "items": [
+      "I'm Thinking of Ending Things"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Steven",
+    "category": "Music",
+    "items": [
+      "Lana Del Rey - Norman Fucking Rockwell",
+      "Bill Evans piano records",
+      "RMR - Rascal"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Steven",
+    "category": "Podcasts",
+    "items": [
+      "Just Hands",
+      "In the Dark Season 2"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Robbie",
+    "category": "TV",
+    "items": [
+      "Plot Against America",
+      "Sharp Objects",
+      "Sopranos (rewatch)",
+      "The Mandalorian",
+      "Married At First Sight Season 9",
+      "Tiger King",
+      "Larry Sanders Show",
+      "Property Brothers",
+      "News"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Robbie",
+    "category": "Movies",
+    "items": [
+      "All the Marvel movies in release order",
+      "All the Harry Potter movies"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Robbie",
+    "category": "Music",
+    "items": [
+      "Classic 90's playlist"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Grayson",
+    "category": "TV",
+    "items": [
+      "The Last Dance",
+      "The Crown Season 4",
+      "The Queen's Gambit",
+      "Servant",
+      "Sharp Objects",
+      "Unorthodox",
+      "The Mandalorian Season 1",
+      "The Wire Season 5",
+      "Watchmen",
+      "The English Game",
+      "Anne with an E Season 3",
+      "The Stranger",
+      "Waco"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Grayson",
+    "category": "Documentaries",
+    "items": [
+      "Dont Fuck with Cats",
+      "The Pharmacist",
+      "Tiger King",
+      "I'll Be Gone in the Dark",
+      "Jeffrey Epstein: Filthy Rich",
+      "American Murder: The Family Next Door",
+      "The Trials of Gabriel Fernandez",
+      "How to Fix a Drug Scandal",
+      "The Vow",
+      "Lenox Hill",
+      "World's Toughest Race: Eco Challenge - Fiji",
+      "My Octopus Teacher",
+      "Challenger: The Final Flight",
+      "Trial by Media",
+      "Jodie Arias: From Lust to Murder",
+      "Forensic Files",
+      "The Social Dilemma",
+      "My Lottery Dream House",
+      "The Holiday Movies That Made Us: ELF/HOME ALONE",
+      "Inventor: Out For Blood in Silicon Valley"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Grayson",
+    "category": "Movies",
+    "items": [
+      "Rocketman",
+      "The Vast of Night",
+      "Uncut Gems",
+      "Pan's Labyrinth",
+      "1917",
+      "Booksmart",
+      "7500",
+      "Eurovision Song Contest",
+      "Annihilation",
+      "The Invisible Man",
+      "Borat 2",
+      "The Assistant",
+      "Katt Williams: Kattpacalypse",
+      "Knives Out",
+      "Honey Boy",
+      "The Platform",
+      "The Host",
+      "Emelie",
+      "Resolution",
+      "The Incident",
+      "Crip Camp: A Disability Revolution"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Grayson",
+    "category": "Music",
+    "items": [
+      "Metallica S & M 2 with San Francisco Symphony",
+      "Alexis Ffrench",
+      "Alexa Rose",
+      "Lord Huron",
+      "Joseph Huber",
+      "Blink 182 - Nine"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Zach",
+    "category": "TV",
+    "items": [
+      "Great British Baking Show",
+      "The Mandalorian",
+      "Raised by Wolves",
+      "Tiger King",
+      "NBA playoffs",
+      "Kims Convenience",
+      "See",
+      "Ted Lasso",
+      "Pen15",
+      "Ozark",
+      "Don't Fuck with Cats",
+      "American Gods"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Zach",
+    "category": "Movies",
+    "items": [
+      "Midnight Run",
+      "The Last Boy Scout",
+      "Brawl in Cell Block 99",
+      "Parasite",
+      "1917",
+      "8th Grade",
+      "Booksmart",
+      "The Platform",
+      "Midsommar"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Zach",
+    "category": "Podcasts",
+    "items": [
+      "Radio Lab",
+      "Bag Man",
+      "Do No Harm",
+      "Pod Save the World",
+      "Invisibilia",
+      "The Worst Idea of All Time"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Amanda",
+    "category": "TV",
+    "items": [
+      "The Mandalorian",
+      "Ozark",
+      "The Crown",
+      "Tiger King",
+      "What We Do in the Shadows",
+      "Unorthodox",
+      "The Queen's Gambit",
+      "Umbrella Academy",
+      "The Good Place",
+      "Schitts Creek",
+      "Dead to Me"
+    ]
+  },
+  {
+    "year": 2020,
+    "author": "Carrie Ann",
+    "category": "TV",
+    "items": [
+      "Homeland (final season)",
+      "Schitts Creek (final)",
+      "The Good Place (final)",
+      "Defending Jacob",
+      "Servant",
+      "The Mandalorian",
+      "Anne with an E (season 2)",
+      "Tiger King",
+      "Dead to Me",
+      "The Watchmen",
+      "Handmaids Tale",
+      "Killing Eve",
+      "Queen's Gambit",
+      "Stateless",
+      "Jeffrey Epstein Doc"
     ]
   }
 ]
